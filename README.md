@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah seorang pelajar yang menjadikan coding sebagai hobi sekaligus sumber penghasilan.<br>Saya memiliki ketertarikan yang besar terhadap dunia pengembangan software, khususnya JavaScript, yang menjadi bahasa favorit saya dalam membangun berbagai proyek.
+Saya adalah seorang fresh graduate yang menjadikan coding sebagai hobi sekaligus sumber penghasilan.<br>Saya memiliki ketertarikan yang besar terhadap dunia pengembangan software, khususnya JavaScript, yang menjadi bahasa favorit saya dalam membangun berbagai proyek.
 
 
 ## 🌐 Socials:
